@@ -1,0 +1,59 @@
+body {
+    font-size: 18px;
+    line-height: 1.47059;
+    font-weight: 400;
+    letter-spacing: -.022em;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    background-color: #fff;
+    color: #333;
+    font-style: normal;
+    min-width: 480px;
+}
+
+h1 {
+  color: gray;
+  text-align: center;
+}
+
+h2 {
+	color: lightgray;
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+a:link {
+  color: lightgray;
+  text-align: center; 
+  text-decoration: none;
+}
+
+a:visited {
+  color: lightgray;
+}
+
+a:hover {
+	color: hotpink;
+}
+
+a:active {
+    color: blue;
+}
+
+.center {
+	text-align: center;
+}
+
+img {
+	width: 100%;
+	height: auto;
+	max-width: 50%;
+  	align-self: center;
+}
